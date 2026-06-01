@@ -1,0 +1,8 @@
+{
+  "name": "Creador y Gestor de Temas GRUB",
+  "description": "Una interfaz gráfica intuitiva para crear, editar, previsualizar y exportar temas visuales para el gestor de arranque GRUB en distribuciones como Arch Linux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
